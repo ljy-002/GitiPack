@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: GitiPack
+Version: 1.4.5
+Summary: GITI网站的辅助功能，用于推动GITI的发展
+Home-page: https://github.com/ljy-002/GitiPack
+Author: 李今越
+Author-email: ljy123ljy123@dingtalk.com
+License: UNKNOWN
+Description: # GitiPack
+        
+        ## 如何使用：
+        命令`tig`，需要在运行此包的时候提前运行。
+        
+        命令`webg`，需要在使用时运行。
+        
+        ## 版本
+        ### v1.3.2
+        创建函数`tig`和`webg`
+        
+        ### v1.4.5
+        修复了函数`tig`和`webg`不能调用的问题
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Provides-Extra: GitiPack
