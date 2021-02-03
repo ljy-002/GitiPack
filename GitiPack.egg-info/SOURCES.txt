@@ -1,0 +1,9 @@
+README.md
+setup.py
+GitiPack/__init__.py
+GitiPack/tig.py
+GitiPack.egg-info/PKG-INFO
+GitiPack.egg-info/SOURCES.txt
+GitiPack.egg-info/dependency_links.txt
+GitiPack.egg-info/requires.txt
+GitiPack.egg-info/top_level.txt
